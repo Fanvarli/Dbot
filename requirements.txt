@@ -1,0 +1,8 @@
+Flask==2.3.3             # Веб-сервер
+gunicorn==21.2.0         # Сервер для деплоя
+requests==2.31.0         # HTTP-запросы
+python-dotenv==1.0.0     # Переменные окружения
+openai==0.27.8           # OpenAI API
+apscheduler==3.10.1      # Планировщик заданий
+vk-api==11.10.0          # ВК API клиент
+aiohttp==3.9.5           # Асинхронный HTTP клиент
